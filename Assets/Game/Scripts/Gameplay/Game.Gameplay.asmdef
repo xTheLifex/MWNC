@@ -1,0 +1,15 @@
+{
+    "name": "Game.Gameplay",
+    "references": [
+        "Unity.TextMeshPro",
+        "Game.External"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
